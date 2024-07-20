@@ -14,6 +14,8 @@ numpy: A library for numerical computing, which we will use to handle arrays and
 scikit-learn: A machine learning library that provides various tools for data mining and data analysis, useful for additional tasks like data splitting and evaluation metrics.
 Understanding Semantic Search
 When we're looking to build a semantic search engine, it's important to start with the basics. Let's break down what semantic search is and why it's a game-changer in finding information.
+### The 20 Newsgroups Dataset
+In this project, we'll be using the 20 Newsgroups dataset, a collection of approximately 20,000 newsgroup documents, partitioned across 20 different newsgroups. 
 
 ### What is Semantic Search?
 Semantic search transcends the limitations of traditional keyword searches by understanding the context and nuances of language in user queries. At its core, semantic search:
