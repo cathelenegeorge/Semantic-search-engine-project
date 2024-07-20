@@ -8,6 +8,7 @@ The project can be broke down into the following steps as mentioned below:
  
 ### What are the Required Libraries?
 tensorflow: The core library for TensorFlow, required for working with the Universal Sentence Encoder.
+
 tensorflow-hub: A library that makes it easy to download and deploy pre-trained TensorFlow models, including the Universal Sentence Encoder.
 faiss-cpu: A library for efficient similarity search and clustering of dense vectors.
 numpy: A library for numerical computing, which we will use to handle arrays and matrices.
